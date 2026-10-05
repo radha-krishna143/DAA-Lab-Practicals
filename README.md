@@ -61,8 +61,8 @@ DAA-Lab-Practicals/
 | Practical 7 | Making Change Problem using Dynamic Programming | ✅ Completed |
 | Practical 8 | Graph Traversal (DFS and BFS) | ✅ Completed |
 | Practical 9 | Prim's Algorithm | ✅ Completed |
-| Practical 10 | Kruskal's Algorithm | ⏳ In Progress |
-| Practical 11 | Floyd–Warshall Algorithm | ⏳ In Progress |
+| Practical 10 | Kruskal's Algorithm | ✅ Completed |
+| Practical 11 | Floyd–Warshall Algorithm | ✅ Completed |
 | Practical 12 | Travelling Salesman Problem (TSP) | ⏳ In Progress |
 
 ---
