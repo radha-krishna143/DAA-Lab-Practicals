@@ -63,7 +63,7 @@ DAA-Lab-Practicals/
 | Practical 9 | Prim's Algorithm | ✅ Completed |
 | Practical 10 | Kruskal's Algorithm | ✅ Completed |
 | Practical 11 | Floyd–Warshall Algorithm | ✅ Completed |
-| Practical 12 | Travelling Salesman Problem (TSP) | ⏳ In Progress |
+| Practical 12 | Travelling Salesman Problem (TSP) | ✅ Completed |
 
 ---
 
