@@ -8,8 +8,8 @@ This repository contains the practical implementations, algorithms, Jupyter note
 
 ## 👨‍🎓 Student Information
 
-- **Name:** VENKATA SHARATH KUMAR JAKKI
-- **Enrollment No.:** 92460118301
+- **Name:** HANMAMOLLA RADHA KRISHNA
+- **Enrollment No.:** 92460118285
 - **Course:** B.Tech – Artificial Intelligence & Machine Learning
 - **Subject:** Data Analysis and Algorithms (DAA)
 
