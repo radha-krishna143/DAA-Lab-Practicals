@@ -115,7 +115,7 @@ Through these practicals, I gained knowledge of:
 
 ## 📌 Author
 
-**VENKATA SHARATH KUMAR JAKKI**
+**HANMAMOLLA RADHA KRISHNA**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
